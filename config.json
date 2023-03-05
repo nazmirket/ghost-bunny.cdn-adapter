@@ -1,0 +1,6 @@
+{
+	"storageUrl": "storage url",
+	"accessKey": "your access key here",
+	"storageZone": "your storage zone",
+	"cdn": "your pull zone"
+}

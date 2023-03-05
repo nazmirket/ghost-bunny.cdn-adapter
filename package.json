@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"ghost-storage-base": "^1.0.0",
+		"node-fetch": "^2.6.9",
+		"uniqid": "^5.4.0"
+	}
+}
